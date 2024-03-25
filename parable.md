@@ -10,11 +10,17 @@ Note: speaker notes FTW!
 
 
 
-![Gil Scott-Heron Album](assets/gil_scott-heron.jpg)
-<!-- .element: class="r-stretch" -->
-Gil Scott-Heron  
-"Whitey On the Moon"  (1970)  
-<audio controls src="assets/Gil Scott-Heron - Whitey On the Moon.mp3"></audio>
+
+Judging a Book by Its Cover
+<!-- .element: class="r-fit-text" -->
+
+
+## Paratexts  
+
+<q>the zone between text and off-text</q>
+<!-- .element: class="fragment" -->
+Gérard Genette (1997)
+<!-- .element: class="fragment" -->
 
 
 
@@ -47,7 +53,6 @@ Gil Scott-Heron
 (2019)
 
 
-
 <div>
   <img src="assets/parable_sower_1993.png" width="200" />
   <img src="assets/parable_sower_1995.png" width="200" /> 
@@ -61,10 +66,56 @@ Gil Scott-Heron
 
 
 
-
-My - (adj.) - (noun) - (adv.) -  
-(verb) - your - (adj.) - (noun).
+# Afrofuturism
 <!-- .element: class="r-fit-text" -->
+
+
+“Afrofuturism” coined by cultural critic Mark Dery in a 1994 essay and set of interviews called “Black to the Future”<!-- .slide: style="text-align: left" -->
+
+
+“African Americans, in a very real sense, are the descendants of alien abductees; they inhabit a sci-fi nightmare in which unseen but no less impassable force fields of intolerance frustrate their movements; official histories undo what has been done; and technology is too often brought to bear on black bodies (branding, forced sterilization, the Tuskegee experiment, and tasers”<!-- .slide: style="text-align: left" -->
+
+
+“Can a community whose past has been deliberately rubbed out…imagine possible futures?”<!-- .slide: style="text-align: left" -->
+
+
+
+# Hallmarks of Afrofuturism
+<!-- .element: class="r-fit-text" -->
+
+
+Reintegrates people of color into science fiction and pop culture
+
+
+Combines pop culture, science fiction, historical fiction, fantasy, magic realism, and non-Western or African-centric experiences
+
+
+Imagining possible futures in a way that centers blackness and black experiences
+
+
+Explores role of science and technology in black lives
+
+
+Thinks through the implications of W.E.B. DuBois’ idea of “double-consciousness” in the digital age
+
+
+Draws parallels between transatlantic slave trade and contemporary and futuristic power relations
+
+
+Imagines utopias set apart from the everyday dystopia of black lives
+
+
+
+# Black Kirby
+
+
+
+
+![Gil Scott-Heron Album](assets/gil_scott-heron.jpg)
+<!-- .element: class="r-stretch" -->
+Gil Scott-Heron  
+"Whitey On the Moon"  (1970)  
+<audio controls src="assets/Gil Scott-Heron - Whitey On the Moon.mp3"></audio>
 
 
 
@@ -109,9 +160,7 @@ My - (adj.) - (noun) - (adv.) -
 
 
 
-<section data-background-iframe="https://dearprofessor.glitch.me/"
-          data-background-interactive>
-</section>
+
 
 
 
