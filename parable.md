@@ -108,6 +108,21 @@ Imagines utopias set apart from the everyday dystopia of black lives
 
 # Black Kirby
 
+Note: Stacey Robinson and John Jennings, remimagining Jack Kirby's work through the lens of Afrofuturism
+
+
+![Moblacktus](assets/moblacktus.jpeg)
+<!-- .element: class="r-stretch" -->
+
+
+![Major Sankofa](assets/major_sankofa.webp)
+<!-- .element: class="r-stretch" -->
+
+Note: Last name comes from Ghanian word that means "go back and get it"
+
+
+![Shango](assets/jill_scott_free.jpg)
+<!-- .element: class="r-stretch" -->
 
 
 
