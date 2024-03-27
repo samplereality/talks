@@ -6,14 +6,12 @@
 <small>*Dr. Sample*  
 *March 2024*</small>
 
-Note: Humes Plenary, March 28, 2024
+Note: speaker notes FTW!
 
 
 
 # What is Science Fiction?
 <!-- .element: class="r-fit-text" -->
-
-Note: H.G. Wells and Jules Verne
 
 
 Preparation for the future?
@@ -56,7 +54,7 @@ Note: Butler says she has three general audiences: the science-fiction audience,
 
 
 
-## Paratext  
+## Paratexts  
 
 <q>the zone between text and off-text</q>
 <!-- .element: class="fragment" -->
@@ -110,7 +108,7 @@ Gérard Genette (1997)
 “Afrofuturism” coined by cultural critic Mark Dery in a 1994 essay and set of interviews called “Black to the Future”<!-- .slide: style="text-align: left" -->
 
 
-“African Americans, in a very real sense, are the descendants of alien abductees; they inhabit a sci-fi nightmare in which unseen but no less impassable force fields of intolerance frustrate their movements; official histories undo what has been done; and technology is too often brought to bear on black bodies (branding, forced sterilization, the Tuskegee experiment, and tasers)”<!-- .slide: style="text-align: left" -->
+“African Americans, in a very real sense, are the descendants of alien abductees; they inhabit a sci-fi nightmare in which unseen but no less impassable force fields of intolerance frustrate their movements; official histories undo what has been done; and technology is too often brought to bear on black bodies (branding, forced sterilization, the Tuskegee experiment, and tasers”<!-- .slide: style="text-align: left" -->
 
 
 “Can a community whose past has been deliberately rubbed out…imagine possible futures?”<!-- .slide: style="text-align: left" -->
@@ -121,36 +119,45 @@ Gérard Genette (1997)
 <!-- .element: class="r-fit-text" -->
 
 
-* Combines pop culture, science fiction, historical fiction, fantasy, magic realism, and non-Western or African-centric experiences  
-<!-- .element class="fragment highlight-current-red" -->
- 
-* Reintegrates people of color into science fiction and pop culture 
-<!-- .element class="fragment highlight-current-red" -->
-
-* Explores role of science and technology in black lives
-<!-- .element class="fragment highlight-current-red" -->
+Reintegrates people of color into science fiction and pop culture
 
 
-
-* Thinks through the implications of W.E.B. DuBois’ idea of “double-consciousness” in contemporary life<!-- .element class="fragment highlight-current-red" -->
-
-* Draws parallels between transatlantic slave trade and contemporary and futuristic power relations<!-- .element class="fragment highlight-current-red" -->
-
-* Imagining possible futures in a way that centers blackness and black experiences  <!-- .element class="fragment highlight-current-red" -->
-
-Note: Does Parable of the Sower do any of these three?
+Combines pop culture, science fiction, historical fiction, fantasy, magic realism, and non-Western or African-centric experiences
 
 
-
-# Space is a Place in *Parable of the Sower*
-<!-- .element: class="r-fit-text" -->
+Imagining possible futures in a way that centers blackness and black experiences
 
 
-*The Destiny of Earthseed  
-Is to take root among the stars.*
-<!-- .element: class="r-fit-text" -->
+Explores role of science and technology in black lives
 
-Note: p. 84-85. "We have to seed ourselves away from this dying place" (78). "There are living worlds just a few light years away, and the United States is busy drawing back from even our nearby dead worlds. I understand why they are, but I with they weren't" (83). Questions for the students: do you agree with Lauren or her father (who calls space exploration a "criminal waste of time and money" on page 20)? 
+
+Thinks through the implications of W.E.B. DuBois’ idea of “double-consciousness” in the digital age
+
+
+Draws parallels between transatlantic slave trade and contemporary and futuristic power relations
+
+
+Imagines utopias set apart from the everyday dystopia of black lives
+
+
+
+# Black Kirby
+
+Note: Stacey Robinson and John Jennings, remimagining Jack Kirby's work through the lens of Afrofuturism
+
+
+![Moblacktus](parable/assets/moblacktus.jpeg)
+<!-- .element: class="r-stretch" -->
+
+
+![Major Sankofa](parable/assets/major_sankofa.webp)
+<!-- .element: class="r-stretch" -->
+
+Note: Last name comes from Ghanian word that means "go back and get it"
+
+
+![Shango](parable/assets/jill_scott_free.jpg)
+<!-- .element: class="r-stretch" -->
 
 
 
