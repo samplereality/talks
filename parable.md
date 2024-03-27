@@ -28,12 +28,30 @@ Warning about the future?
 
 Really about the present?
 <!-- .element: class="r-fit-text" -->
-Note: page 63 of Parable of the Sower
+Science Fiction can defamiliarize the present.<!-- .element: class="fragment" -->
+Note: So many things and experiences in our daily life are totally habituated, totally naturalized—so many things go without saying because they come without saying, it’s what we call ideology (Lauren recognizes this: “we hear gunfire so much that we don’t hear it” (44))
+page 63 of Parable of the Sower. 
+
+
+“humankind…is able to bear very little  
+of the unmediated, unfiltered experience  
+of the daily life of capitalism”
+<!-- .element: class="r-fit-text" -->
+
+<small>Fredric Jameson, “Progress Versus Utopia; or, Can We Imagine the Future?”   
+*Science-Fiction Studies* 9 (1982)</small>
+<!-- .element: class="fragment" -->
+
+Note: SF distracts us from our defense mechanisms against that reality; SF is a strategy of indirection that allows us to look awry at the real conditions of our world. Science fiction transforms our present into the past of some unexpected future; our present becomes history and dramatizes our failure to imagine a more equitable future
+
 
 
 
 # Judging a Book by Its Cover
 <!-- .element: class="r-fit-text" -->
+
+Note: Butler says she has three general audiences: the science-fiction audience, the black audience, and the feminist audience (SFS 23, 1996)
+
 
 
 ## Paratexts  
