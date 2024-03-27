@@ -22,7 +22,7 @@ Warning about the future?
 <!-- .element: class="r-fit-text" -->
 
 
-![Torment Nexus](assets/torment_nexus.jpg)
+![Torment Nexus](parable/assets/torment_nexus.jpg)
 <!-- .element: class="r-stretch" -->
 
 
@@ -63,39 +63,39 @@ Gérard Genette (1997)
 
 
 
-![Parable of the Sower 1993](assets/parable_sower_1993.png)
+![Parable of the Sower 1993](parable/assets/parable_sower_1993.png)
 <!-- .element: class="r-stretch" -->
 (1993)
 
 
-![Parable of the Sower 1995](assets/parable_sower_1995.png)
+![Parable of the Sower 1995](parable/assets/parable_sower_1995.png)
 <!-- .element: class="r-stretch" -->
 (1995)
 
 
-![Parable of the Sower 2000](assets/parable_sower_2000.png)
+![Parable of the Sower 2000](parable/assets/parable_sower_2000.png)
 <!-- .element: class="r-stretch" -->
 (2000)
 
 
-![Parable of the Sower 2016](assets/parable_sower_2016.png)
+![Parable of the Sower 2016](parable/assets/parable_sower_2016.png)
 <!-- .element: class="r-stretch" -->
 (2016)
 
 
-![Parable of the Sower 2019](assets/parable_sower_2019.png)
+![Parable of the Sower 2019](parable/assets/parable_sower_2019.png)
 <!-- .element: class="r-stretch" -->
 (2019)
 
 
 <div>
-  <img src="assets/parable_sower_1993.png" width="200" />
-  <img src="assets/parable_sower_1995.png" width="200" /> 
-  <img src="assets/parable_sower_2000.png" width="200" />
+  <img src="parable/assets/parable_sower_1993.png" width="200" />
+  <img src="parable/assets/parable_sower_1995.png" width="200" /> 
+  <img src="parable/assets/parable_sower_2000.png" width="200" />
 </div>
 <div>
-  <img src="assets/parable_sower_2016.png" width="200" />
-  <img src="assets/parable_sower_2019.png" width="200" /> 
+  <img src="parable/assets/parable_sower_2016.png" width="200" />
+  <img src="parable/assets/parable_sower_2019.png" width="200" /> 
 </div>
 <!-- .element: class="r-stretch" -->
 
@@ -146,24 +146,24 @@ Imagines utopias set apart from the everyday dystopia of black lives
 Note: Stacey Robinson and John Jennings, remimagining Jack Kirby's work through the lens of Afrofuturism
 
 
-![Moblacktus](assets/moblacktus.jpeg)
+![Moblacktus](parable/assets/moblacktus.jpeg)
 <!-- .element: class="r-stretch" -->
 
 
-![Major Sankofa](assets/major_sankofa.webp)
+![Major Sankofa](parable/assets/major_sankofa.webp)
 <!-- .element: class="r-stretch" -->
 
 Note: Last name comes from Ghanian word that means "go back and get it"
 
 
-![Shango](assets/jill_scott_free.jpg)
+![Shango](parable/assets/jill_scott_free.jpg)
 <!-- .element: class="r-stretch" -->
 
 
 
-![Gil Scott-Heron Album](assets/gil_scott-heron.jpg)
+![Gil Scott-Heron Album](parable/assets/gil_scott-heron.jpg)
 <!-- .element: class="r-stretch" -->
 Gil Scott-Heron  
 "Whitey On the Moon"  (1970)  
-<audio controls src="assets/Gil Scott-Heron - Whitey On the Moon.mp3"></audio>
+<audio controls src="parable/assets/Gil Scott-Heron - Whitey On the Moon.mp3"></audio>
 
