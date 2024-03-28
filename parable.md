@@ -1,3 +1,11 @@
+![Tasmin Archer - Sleeping Satellite](parable/assets/sleeping_satellite.jpg)
+<!-- .element: class="r-stretch" -->
+Tasmin Archer  
+<q>Sleeping Satellite</q>  (1992)  
+<audio controls src="parable/assets/Tasmin Archer - Sleeping Satellite - 01.mp3"></audio>
+
+
+
 # Parable of the Sower
 <!-- .element: class="r-fit-text" -->
 ## Afrofuturism and the End of the World
