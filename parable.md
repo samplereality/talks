@@ -1,7 +1,6 @@
 ![Tasmin Archer - Sleeping Satellite](parable/assets/sleeping_satellite.jpg)
 <!-- .element: class="r-stretch" -->
-Tasmin Archer  
-<q>Sleeping Satellite</q>  (1992)  
+ 
 <audio controls src="parable/assets/Tasmin Archer - Sleeping Satellite - 01.mp3"></audio>
 
 
@@ -20,12 +19,12 @@ Note: Humes Plenary, March 28, 2024
 
 # What is Science Fiction?
 <!-- .element: class="r-fit-text" -->
-
-Note: H.G. Wells and Jules Verne
+Note: What I really mean to ask is, what's the function of science fiction?
 
 
 Preparation for the future?
 <!-- .element: class="r-fit-text" -->
+Note: H.G. Wells and Jules Verne
 
 
 Warning about the future?
@@ -34,13 +33,14 @@ Warning about the future?
 
 ![Torment Nexus](parable/assets/torment_nexus.jpg)
 <!-- .element: class="r-stretch" -->
+Note: Snow Crash by Neal Stephenson (1992) coined the term “metaverse”. Borrowed by Zuckerberg for his VR push. Or, a few years ago Black Mirror episode "Be Right Back" warned against using AI to create artificial versions of our dead loved ones, a tech companies are actively now developing.
 
 
 Really about the present?
 <!-- .element: class="r-fit-text" -->
 Science Fiction can defamiliarize the present.<!-- .element: class="fragment" -->
-Note: So many things and experiences in our daily life are totally habituated, totally naturalized—so many things go without saying because they come without saying, it’s what we call ideology (Lauren recognizes this: “we hear gunfire so much that we don’t hear it” (44))
-page 63 of Parable of the Sower. 
+
+Note: So many things and experiences in our daily life are totally habituated, totally naturalized—so many things go without saying because they come without saying, it’s what we call ideology. Ideology refers to the beliefs you don't even realize are beliefs, beliefs you think are totally natural. (Lauren recognizes this: “we hear gunfire so much that we don’t hear it” (44)) 
 
 
 “humankind…is able to bear very little  
@@ -49,11 +49,17 @@ of the daily life of capitalism”
 <!-- .element: class="r-fit-text" -->
 
 <small>Fredric Jameson, “Progress Versus Utopia; or, Can We Imagine the Future?”   
-*Science-Fiction Studies* 9 (1982)</small>
+*Science Fiction Studies* 9 (1982)</small>
 <!-- .element: class="fragment" -->
 
-Note: SF distracts us from our defense mechanisms against that reality; SF is a strategy of indirection that allows us to look awry at the real conditions of our world. Science fiction transforms our present into the past of some unexpected future; our present becomes history and dramatizes our failure to imagine a more equitable future
+Note: SF distracts us from our defense mechanisms against that reality; SF is a strategy of indirection that allows us to look awry at the real conditions of our world. 
 
+
+Our present becomes the past  
+of some unexpected future.
+<!-- .element: class="r-fit-text" -->
+
+Note: Science fiction transforms our present into the past of some unexpected future; our present becomes history and dramatizes our failure to imagine a more equitable future. See page 63 of Parable of the Sower. In a 1994 interview, Butler said, "There isn’t anything in there that can’t happen if we keep going as we have been…And the horrible thing is some of them are happening already anyway. (Crisis April 1994)
 
 
 
@@ -70,7 +76,7 @@ Note: Butler says she has three general audiences: the science-fiction audience,
 <!-- .element: class="fragment" -->
 Gérard Genette (1997)
 <!-- .element: class="fragment" -->
-
+Note: Boundary space between the inside and outside of a text, shapes the reception of a text, our expectations and attitudes toward it.
 
 
 ![Parable of the Sower 1993](parable/assets/parable_sower_1993.png)
@@ -170,4 +176,14 @@ Gil Scott-Heron
 
 
 
-# Imagination in Parable of the Sower
+# What Wants to Go to Space Now?
+<!-- .element: class="r-fit-text" -->
+
+  <img src="parable/assets/bezos.webp" width="400" />
+  <!-- .element: class="fragment" -->
+
+  <img src="parable/assets/musk.avif" width="400" />
+  <!-- .element: class="fragment" -->
+
+
+# The Role of Imagination in *Parable of the Sower*
