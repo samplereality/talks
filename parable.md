@@ -186,4 +186,154 @@ Gil Scott-Heron
   <!-- .element: class="fragment" -->
 
 
-# The Role of Imagination in *Parable of the Sower*
+# How Long Is the Future <!-- .element: class="r-fit-text" -->
+# And Who Will Survive It? <!-- .element: class="r-fit-text" -->
+<small>*Dr. Sample*  
+*April 2024*</small>
+
+
+# Research is Work 
+<!-- .element: class="r-fit-text fragment" -->
+Not Thinking
+<!-- .element: class="r-fit-text fragment" -->
+Notes: Meeting with my section, talking with the other faculty, and one thing I'm realizing is that you all have a tendency to think. Which should be a good thing, right? But you're skipping a step. Instead of thinking right now, you ought to be working. Going to share a few thoughts on the difference between thinking and working that one of my own professors, Peter Stallybrass, once shared with me.
+
+
+## Thinking is
+* Hard  <!-- .element: class="fragment fade-in-then-semi-out" -->
+* Painful   <!-- .element: class="fragment fade-in-then-semi-out" -->
+* Boring  <!-- .element: class="fragment fade-in-then-semi-out" -->
+* Repetitious  <!-- .element: class="fragment fade-in-then-semi-out" -->
+* Indolent <!-- .element: class="fragment fade-in-then-semi-out" -->
+
+
+
+## Working is
+* Easy  <!-- .element: class="fragment fade-in-then-semi-out" -->
+* Challenging  <!-- .element: class="fragment fade-in-then-semi-out" -->
+* Pleasurable <!-- .element: class="fragment fade-in-then-semi-out" -->
+* Exciting  <!-- .element: class="fragment fade-in-then-semi-out" -->
+* Process of Discovery  <!-- .element: class="fragment fade-in-then-semi-out" -->
+
+
+
+## To work you have to
+* Do the work  <!-- .element: class="fragment fade-in-then-semi-out" -->
+* Read/view/listen/play<br> the thing you’re working on  <!-- .element: class="fragment fade-in-then-semi-out" -->
+  
+
+
+![My bookshelf](https://samplereality.com/twitterfiles/samplereality/tweets_media/1455931072315727879-FDSBlrnUYAI3QTy.jpg)
+<!-- .element: class="r-stretch" -->
+
+
+
+# You can’t do the work until you do the work.
+
+
+
+# How Long Is the Future <!-- .element: class="r-fit-text" -->
+# And Who Will Survive It? <!-- .element: class="r-fit-text" -->
+
+
+# How Long  
+# is the Future?
+Notes: Which is really just a way of asking, how long is our future, the future of humanity. 
+
+
+![Clock](parable/assets/clock.png)
+<!-- .element: class="r-stretch" -->
+Notes: Early last semester we read the philosopher Amy Schneiderman. At one point Schneiderman makes the point that compared to the rest of the universe, to even just the earth, humanity is in its infancy. She observes that if the lifespan of the Earth were a clock, humans arrived "a fraction of an instant before midnight at the end of the twenty-four hours." We are young. And we are fantastically conceptualizing time spans longer than a generation or two.
+
+
+
+<section data-background-iframe="https://longnow.org/"
+          data-background-interactive>
+</section>
+Notes: Click on Clock > Summary > Motivations
+
+
+
+![Mac Icon](parable/assets/mac_icon.png)
+<!-- .element: class="r-stretch" -->
+Notes: Original Macintosh desktop icons from 1984. Designed by artist Susan Kare, an artist at Apple (employee #11). Designed whole visual iconography of the Mac, including the default font, Chicago.
+
+
+![Trash Icon](parable/assets/mac_trash.png)
+<!-- .element: class="r-stretch" -->
+Notes: 32x32 monochrome grid. So a total of 1024 pixels to work with.
+
+
+
+<section data-background-iframe="http://numeral.com/projects/web/everyIcon/everyIcon.php"
+          data-background-interactive>
+</section>
+Notes: released on January 27, 1997 and still running. 100 icons per second. Took over a year for first cell of second row to switch on
+
+
+
+# 2<sup>1024</sup>
+
+
+# 1.8 x 10<sup>308</sup>
+
+
+179,769,313,486,231,590,772,930,519,078,902,  
+473,361,797,697,894,230,657,273,430,081,157,  
+732,675,805,500,963,132,708,477,322,407,536,  
+021,120,113,879,871,393,357,658,789,768,814,  
+416,622,492,847,430,639,474,124,377,767,893,  
+424,865,485,276,302,219,601,246,094,119,453,  
+082,952,085,005,768,838,150,682,342,462,881,  
+473,913,110,540,827,237,163,350,510,684,586,  
+298,239,947,245,938,479,716,304,835,356,329,  
+624,224,137,216
+Notes: There's no name for a number this big
+
+
+
+<section data-background-iframe="http://numeral.com/projects/web/everyIcon/everyIcon.php"
+          data-background-interactive>
+</section>
+Notes: 5.85 billion years to finish second line
+Most astronomers give the sun about 5 billion more years (1 billion before it starts boiling the oceans)
+
+
+
+# Who Will Survive the Future?
+Notes: One of the connections between *Parable of the Sower* and *Children of Men* is that they take place in our now, more or less. They imagine a near future in which many do not survive.
+
+
+
+<section data-background-iframe="https://davidsoncoding.github.io/parable_of_the_sower/"
+          data-background-interactive>
+</section>
+
+
+
+## What does the map tell us about our collective apocalyptic imagination?
+
+Notes: Any themes in the news stories? Common occurrences? Common places?
+
+
+
+# What’s the time horizon for hopelessness?
+
+
+When would you start to feel hopeless or that life is meaningless? Knowing that humanity will die out in...
+* 5000 years <!-- .element: class="fragment fade-in-then-semi-out" -->
+* 1000 years <!-- .element: class="fragment fade-in-then-semi-out" -->
+* 500 years <!-- .element: class="fragment fade-in-then-semi-out" -->
+* 100 years <!-- .element: class="fragment fade-in-then-semi-out" -->
+* 50 years <!-- .element: class="fragment fade-in-then-semi-out" -->
+* 10 years <!-- .element: class="fragment fade-in-then-semi-out" -->
+* 1 years <!-- .element: class="fragment fade-in-then-semi-out" -->
+
+
+# Who Will Survive the Future?
+
+
+
+<section data-background-iframe="https://ahfarms.org/"
+          data-background-interactive>
+</section>
