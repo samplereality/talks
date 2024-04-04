@@ -200,17 +200,17 @@ Gil Scott-Heron
 *April 2024*</small>
 
 
-# Research is Work 
+Do Not Confuse Thinking 
 <!-- .element: class="r-fit-text fragment" -->
-Not Thinking
+# With Working
 <!-- .element: class="r-fit-text fragment" -->
 Notes: Meeting with my section, talking with the other faculty, and one thing I'm realizing is that you all have a tendency to think. Which should be a good thing, right? But you're skipping a step. Instead of thinking right now, you ought to be working. Going to share a few thoughts on the difference between thinking and working that one of my own professors, Peter Stallybrass, once shared with me.
 
 
 ## Thinking is
 * Hard  <!-- .element: class="fragment fade-in-then-semi-out" -->
-* Painful   <!-- .element: class="fragment fade-in-then-semi-out" -->
-* Boring  <!-- .element: class="fragment fade-in-then-semi-out" -->
+* Pointless   <!-- .element: class="fragment fade-in-then-semi-out" -->
+* Unfocused  <!-- .element: class="fragment fade-in-then-semi-out" -->
 * Repetitious  <!-- .element: class="fragment fade-in-then-semi-out" -->
 * Indolent <!-- .element: class="fragment fade-in-then-semi-out" -->
 
@@ -219,20 +219,15 @@ Notes: Meeting with my section, talking with the other faculty, and one thing I'
 ## Working is
 * Easy  <!-- .element: class="fragment fade-in-then-semi-out" -->
 * Challenging  <!-- .element: class="fragment fade-in-then-semi-out" -->
-* Pleasurable <!-- .element: class="fragment fade-in-then-semi-out" -->
+* Focused <!-- .element: class="fragment fade-in-then-semi-out" -->
 * Exciting  <!-- .element: class="fragment fade-in-then-semi-out" -->
-* Process of Discovery  <!-- .element: class="fragment fade-in-then-semi-out" -->
+* Discovery  <!-- .element: class="fragment fade-in-then-semi-out" -->
 
 
 
 ## To work you have to
 * Do the work  <!-- .element: class="fragment fade-in-then-semi-out" -->
 * Read/view/listen/play<br> the thing you’re working on  <!-- .element: class="fragment fade-in-then-semi-out" -->
-  
-
-
-![My bookshelf](https://samplereality.com/twitterfiles/samplereality/tweets_media/1455931072315727879-FDSBlrnUYAI3QTy.jpg)
-<!-- .element: class="r-stretch" -->
 
 
 
@@ -244,7 +239,7 @@ Notes: Meeting with my section, talking with the other faculty, and one thing I'
 # And Who Will Survive It? <!-- .element: class="r-fit-text" -->
 
 
-# How Long  
+# Part I: How Long  
 # is the Future?
 Notes: Which is really just a way of asking, how long is our future, the future of humanity. 
 
@@ -308,7 +303,13 @@ Most astronomers give the sun about 5 billion more years (1 billion before it st
 
 
 
-# Who Will Survive the Future?
+![Mac Icon in Every Icon](parable/assets/every_icon_mac.png)
+<!-- .element: class="r-stretch" -->
+
+
+
+# Part II: Who Will  
+# Survive the Future?
 Notes: One of the connections between *Parable of the Sower* and *Children of Men* is that they take place in our now, more or less. They imagine a near future in which many do not survive.
 
 
@@ -316,6 +317,10 @@ Notes: One of the connections between *Parable of the Sower* and *Children of Me
 <img src = "parable/assets/parable_sower_1995.png" width="400">
 
 <img src = "parable/assets/ChildrenofMen.jpg" style="vertical-align: 75px;" width="400">
+
+
+
+# Your Own Apocalyptic Imagination
 
 
 
@@ -332,6 +337,7 @@ Notes: Any themes in the news stories? Common occurrences? Common places? Here i
 
 
 # What’s the time horizon for hopelessness?
+Notes: One of the questions posed by *Children of Men* is how much future do we need to have in order to have hope. A world in which, until Dylan is born, the youngest person alive is 18 or so. People like Theo and Julian understand that the humanity has 50 years left, at best 70 years. 
 
 
 When would you start to feel hopeless  
@@ -346,16 +352,18 @@ Knowing that humanity will die out in...<!-- .element: class="fragment" -->
 * 10 years <!-- .element: class="fragment fade-in-then-semi-out" -->
 * 1 year <!-- .element: class="fragment fade-in-then-semi-out" -->
 
+Notes: Have students raise hand at the point they think hopelessness and a sense of meaninglessness would set it. 
 
 
 <img src = "parable/assets/parable_sower_1995.png" width="400">
 
 <img src = "parable/assets/ChildrenofMen.jpg" style="vertical-align: 75px;" width="400">
-Notes: There are significant differences between the two works. Britain, United States are obvious. The mechanism of each country's collapse. And what are some similarities? Fortresses.
+Notes: There are significant differences between the two works. Britain, United States are obvious. The mechanism of each country's collapse. And what are some similarities? Fortresses. Talk about what keeps Acorn from being a right wing fantasy: an armed group of people with a strange religion and a charismatic leader set up an enclave in nothern California, in Humboldt county.
 
 
 
 # Who Will Survive the Future?
+Notes: chapter 20, page 246, "In some places, the rich are escaping by flying out in helicopters."
 
 
 
