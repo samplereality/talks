@@ -186,6 +186,14 @@ Gil Scott-Heron
   <!-- .element: class="fragment" -->
 
 
+
+ ![King Crimson - Court of the Crimson King](parable/assets/191636-in-the-court-of-the-crimson-king-50th-anniversary-822676818.jpg)
+<!-- .element: class="r-stretch" -->
+ 
+<audio controls src="parable/assets/King Crimson - The Court Of The Crimson King.mp3"></audio>
+
+
+
 # How Long Is the Future <!-- .element: class="r-fit-text" -->
 # And Who Will Survive It? <!-- .element: class="r-fit-text" -->
 <small>*Dr. Sample*  
