@@ -305,6 +305,12 @@ Notes: One of the connections between *Parable of the Sower* and *Children of Me
 
 
 
+<img src = "parable/assets/parable_sower_1995.png" width="400">
+
+<img src = "parable/assets/ChildrenofMen.jpg" style="vertical-align: 75px;" width="400">
+
+
+
 <section data-background-iframe="https://davidsoncoding.github.io/parable_of_the_sower/"
           data-background-interactive>
 </section>
@@ -313,21 +319,32 @@ Notes: One of the connections between *Parable of the Sower* and *Children of Me
 
 ## What does the map tell us about our collective apocalyptic imagination?
 
-Notes: Any themes in the news stories? Common occurrences? Common places?
+Notes: Any themes in the news stories? Common occurrences? Common places? Here is where to spend time thinking about the survivalist fantasy that on the surface seems to be at work in *Parable of the Sower*. 
 
 
 
 # What’s the time horizon for hopelessness?
 
 
-When would you start to feel hopeless or that life is meaningless? Knowing that humanity will die out in...
+When would you start to feel hopeless  
+or that life is meaningless?
+
+Knowing that humanity will die out in...<!-- .element: class="fragment" -->
 * 5000 years <!-- .element: class="fragment fade-in-then-semi-out" -->
 * 1000 years <!-- .element: class="fragment fade-in-then-semi-out" -->
 * 500 years <!-- .element: class="fragment fade-in-then-semi-out" -->
 * 100 years <!-- .element: class="fragment fade-in-then-semi-out" -->
 * 50 years <!-- .element: class="fragment fade-in-then-semi-out" -->
 * 10 years <!-- .element: class="fragment fade-in-then-semi-out" -->
-* 1 years <!-- .element: class="fragment fade-in-then-semi-out" -->
+* 1 year <!-- .element: class="fragment fade-in-then-semi-out" -->
+
+
+
+<img src = "parable/assets/parable_sower_1995.png" width="400">
+
+<img src = "parable/assets/ChildrenofMen.jpg" style="vertical-align: 75px;" width="400">
+Notes: There are significant differences between the two works. Britain, United States are obvious. The mechanism of each country's collapse. And what are some similarities? Fortresses.
+
 
 
 # Who Will Survive the Future?
@@ -335,5 +352,11 @@ When would you start to feel hopeless or that life is meaningless? Knowing that 
 
 
 <section data-background-iframe="https://ahfarms.org/"
+          data-background-interactive>
+</section>
+
+
+
+<section data-background-iframe="https://web.archive.org/web/20230428230851/https://risingsbunkers.com/"
           data-background-interactive>
 </section>
